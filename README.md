@@ -1,1 +1,1 @@
-# CA3OscModel
+Code associated with the paper 'Mechanism of carbachol-induced 40 Hz gamma oscillations and the effects of NMDA activation on oscillatory dynamics in a model of the CA3 subfield of the hippocampus', submitted to _J Theor Biol_. 
